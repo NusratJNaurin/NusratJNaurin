@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on **Smart City Traffic — 12-week independent project**
 
 - 🌱 I’m currently learning **circuits, networking, and embedded systems design**
-
-- 📫 How to reach me **nusrat.j.naurin@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
